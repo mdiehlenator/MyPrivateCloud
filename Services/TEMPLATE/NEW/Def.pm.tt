@@ -1,0 +1,11 @@
+Package TEMPLATE::NEW;
+
+$Requires{TEMPLATE::NEW} = 1;
+
+$Provides{TEMPLATE::NEW} = 1;
+
+$Uses{TEMPLATE::NEW} = 1;
+
+$Modifies{TEMPLATE::NEW} = 1;
+
+return 1;
